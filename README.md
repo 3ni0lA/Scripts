@@ -28,11 +28,11 @@ This project consists of Python scripts designed to automate backup processes fo
 
   Configure the backup settings in `backup_config.py`.
   Run `mariadb_backup.py` to backup MariaDB databases.
-  Run `test.py` to backup MongoDB databases.
+  Run `mongodb_backup.py` to backup MongoDB databases.
 
 # Monitoring Scripts
 
-  Run `database_monitoring.py` to execute database queries for monitoring purposes.
+  Run `Queries-login.py` and `Queries-unauthorized.py` to execute database queries for monitoring purposes.
   Analyze the output for performance insights and database health.
 
 # Contact
