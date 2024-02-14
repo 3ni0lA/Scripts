@@ -30,7 +30,7 @@ else:
 
 
 # Push the backup to another server (replace with your SSH command)
-remote_server = 'admin@45.94.209.67'
+remote_server = 'demo@ip_adress'
 remote_backup_dir = '/var/backups/mysql/'
 push_command = f'scp {os.path.join(backup_dir, backup_file)} {remote_server}:{remote_backup_dir}'
 push_success = subprocess.call(push_command, shell=True)
