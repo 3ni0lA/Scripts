@@ -2,12 +2,12 @@
 
 # Description
 
-This project consists of Python scripts designed to automate backup processes for MariaDB and MongoDB databases, as well as query scripts for monitoring purposes. The backup scripts ensure data integrity and disaster recovery capabilities, while the monitoring scripts provide insights into the database performance and health.
+This project consists of Python scripts designed to automate backup processes for MariaDB and MongoDB databases, as well as query scripts for monitoring purposes. The backup scripts ensure data integrity and disaster recovery capabilities, while the monitoring scripts provide insights into the database login and unaunthorised access
 
 # Features
 
 - Automated backup processes for MariaDB and MongoDB databases.
-- Query scripts for monitoring database performance and health.
+- Query scripts for database login and unaunthorised access.
 
 
 # Technologies Used
@@ -33,7 +33,7 @@ This project consists of Python scripts designed to automate backup processes fo
 # Monitoring Scripts
 
   Run `Queries-login.py` and `Queries-unauthorized.py` to execute database queries for monitoring purposes.
-  Analyze the output for performance insights and database health.
+  Analyze the output for login and unaunthorised access.
 
 # Contact
 
