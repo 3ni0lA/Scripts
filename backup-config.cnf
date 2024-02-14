@@ -1,0 +1,4 @@
+
+[mariabackup]
+user = admin #Open a file at /etc/mysql/mariadb.conf.d/backup-config.cnf in your text editor#
+password = admin
