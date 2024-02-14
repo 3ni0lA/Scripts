@@ -19,20 +19,20 @@ This project consists of Python scripts designed to automate backup processes fo
 # Installation
 
   - Clone the repository.
-  - Install the required Python packages using 'pip install -r requirements.txt'.
+  - Install the required Python packages using `pip install -r requirements.txt`.
   - Ensure access to the MariaDB and MongoDB databases is configured correctly.
 
 # Usage
 
 # Backup Scripts
 
-  Configure the backup settings in 'backup_config.py'.
-  Run 'mariadb_backup.py' to backup MariaDB databases.
-  Run 'test.py' to backup MongoDB databases.
+  Configure the backup settings in `backup_config.py`.
+  Run `mariadb_backup.py` to backup MariaDB databases.
+  Run `test.py` to backup MongoDB databases.
 
 # Monitoring Scripts
 
-  Run 'database_monitoring.py' to execute database queries for monitoring purposes.
+  Run `database_monitoring.py` to execute database queries for monitoring purposes.
   Analyze the output for performance insights and database health.
 
 # Contact
