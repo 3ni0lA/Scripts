@@ -26,7 +26,7 @@ This project consists of Python scripts designed to automate backup processes fo
 
 # Backup Scripts
 
-  Configure the backup settings in `backup_config.py`.
+  Configure the backup settings in `backup-config.cnf`.
   Run `mariadb_backup.py` to backup MariaDB databases.
   Run `mongodb_backup.py` to backup MongoDB databases.
 
