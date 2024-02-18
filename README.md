@@ -35,6 +35,10 @@ This project consists of Python scripts designed to automate backup processes fo
   Run `Queries-login.py` and `Queries-unauthorized.py` to execute database queries for monitoring purposes.
   Analyze the output for login and unaunthorised access.
 
+
+# License
+This project is licensed under the MIT License.
+
 # Contact
 
 For any questions or feedback, please contact me at devprecious@gmail.com.
